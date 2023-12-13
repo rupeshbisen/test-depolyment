@@ -1,6 +1,6 @@
 {
   "name": "test-deployment",
-  "homepage":"https://rupeshbisen.github.io/test-depolyment"
+  "homepage":"https://rupeshbisen.github.io/test-depolyment",
   "private": true,
   "version": "0.0.0",
   "type": "module",
